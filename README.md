@@ -5,38 +5,67 @@ DeepStat is a fully interactive, browser-based data analysis tool built with Pyt
 Designed for non-technical users, it simplifies data cleaning, visualization, and exploratory data analysis—no coding required.
 Live Demo: https://deepstat.streamlit.app/
 
-Features
--Upload & Preview Data
-Supports CSV, Excel, and TXT files
-Auto-detects file type
-Displays sample rows for quick inspection
+Features include: 
 
--One-Click Data Cleaning
-Handle missing values
-Drop or fill nulls
-Remove duplicates
-Basic preprocessing options
+Upload & Preview Data
 
--Interactive Visualizations
-Bar, Line, Pie, Scatter, Histogram
-Correlation Heatmap
-Auto-EDA charts
-Dynamic filters for better insights
+- Supports CSV, Excel, and TXT files
 
--Statistical Insights
-Summary statistics
-Correlation analysis
-Outlier detection
-Download cleaned dataset
+- Auto-detects file type
 
--Clustering (Machine Learning)
-K-Means clustering
-Visual cluster plots
-Elbow method for choosing best K
+- Displays sample rows for quick inspection
 
--Completely No-Code
+
+One-Click Data Cleaning
+
+- Handle missing values
+
+- Drop or fill nulls
+
+- Remove duplicates
+
+- Basic preprocessing options
+
+
+Interactive Visualizations
+
+- Bar, Line, Pie, Scatter, Histogram
+
+- Correlation Heatmap
+
+- Auto-EDA charts
+
+- Dynamic filters for better insights
+
+
+Statistical Insights
+
+- Summary statistics
+
+- Correlation analysis
+
+- Outlier detection
+
+- Download cleaned dataset
+
+
+Clustering (Machine Learning)
+
+- K-Means clustering
+
+- Visual cluster plots
+
+- Elbow method for choosing best K
+
+
+Completely No-Code
+
 Designed for:
-Students
-Business analysts
-Small businesses
-Beginners in data analytics
+
+- Students
+
+- Business analysts
+
+- Small businesses
+
+- Beginners in data analytics
